@@ -1,0 +1,133 @@
+# 2012
+sfl-paris-2012|Symfony Live Paris 2012
+sfsf-2012|Symfony Live San Francisco 2012
+mwds-2012|Midwest Drupal Dev Summit 2102
+munich-2012|DrupalCon Munich 2012
+drupalcon-munich-2012|DrupalCon Munich 2012
+drupalcamp-twin-cities-2012|DrupalCamp Twin Cities 2012
+
+# 2013
+sunshinephp-2013|Sunshine PHP 2013
+dcportland|DrupalCon Portland 2013
+lsp2013|Lonestar PHP 2013
+nyccamp-2013|NYC Camp 2013
+drupalcampcr-2013|DrupalCamp Costa Rica 2013
+dcprague2013|DrupalCon Prague 2013
+madisonphp2013|Madison PHP 2013
+truenorthphp-2013|True North PHP 2013
+forumphp-2013|Forum PHP 2013
+
+# 2014
+sunshinephp2014|Sunshine PHP 2014
+dsw2014|Drupal South, Wellington 2014
+da-2014|Drupal Association Webinar (2014)
+midcamp2014|Midcamp 2014
+lsp14|Lonestar PHP 2014
+phptek14|php[tek] 2014
+dcaustin2014|DrupalCon Austin 2014
+nomadphp2014|Nomad PHP (2014)
+craftingcode-2014|Crafting Code Tour 2014
+d4dboston|Design for Drupal 2014
+tcdrupal2014|Twin Cities Drupal Camp 2014
+madisonphp2014|Madison PHP 2014
+dcamsterdam2014|DrupalCon Amsterdam 2014
+sflive-nyc2014|Symfony Live New York 2014
+highedweb2014|Higher Ed Web 2014
+badcamp2014|BADCamp 2014
+phpworld2014|php[world] 2014
+refactor-chicago2014|Refactor Chicago users group (2014)
+
+# 2015
+ssp15|Sunshine PHP 2015
+dcbogota2015|DrupalCon Bogota 2015
+hyderabad2015|DrupalCamp Hyderabad 2015 (Remote)
+mwphp15|Midwest PHP 2015
+lsp15|Lonestar PHP 2015
+dcla2015|DrupalCon Los Angeles 2015
+nyccamp2015|NYC Camp 2015
+tcdrupal2015|Twin Cities Drupal Camp 2015
+dcbcn2015|DrupalCon Barcelona 2015
+bgphp15|Bulgaria PHP 2015
+heweb2015|Higher Ed Web Milwaukee 2015
+pnwphp-2015|Pacific Northwest PHP 2015
+connectjs2015|Connect.js 2015
+zendcon2015|ZendCon 2015
+phpworld2015|php[world] 2015
+srijan2015|Srijan Webinar (2015)
+
+# 2016
+dcmumbai2016|DrupalCon Mumbai 2016
+mwphp16|Midwest PHP 2016
+midcamp2016|Midcamp 2016
+dcnola2016|DrupalCon New Orleans 2016
+govcon2016|Drupal GovCon 2016
+nomadphp2016|Nomad PHP (2016)
+dcstl2016|Drupal Camp St. Louis 2016
+dcdublin2016|DrupalCon Dublin 2016
+zendcon2016|ZendCon 2016
+connecttech2016|Connect.tech 2016
+dcbaltics2016|DrupalCamp Baltics 2016 (Remote)
+truenorthphp2016|True North PHP 2016
+phpworld2016|php[world] 2016
+drupalironcamp2016|Drupal Iron Camp 2016
+sfconberlin2016|SymfonyCon Berlin 2016
+
+# 2017
+mwphp17|Midwest PHP 2017
+forumphp2017|Forum PHP 2017
+sfconcluj2017|SymfonyCon Cluj 2017
+
+# 2018
+wpbug2018|West Palm Beach PHP User Group 2018
+sunshinephp2018|Sunshine PHP 2018
+chiphpug2018|Chicago PHP User Group 2018
+longhornphp2018|Longhorn PHP 2018
+drupalcamptransylvania2018|DrupalCamp Transylvania 2018
+nomadphp2018|Nomad PHP May 2018
+phptek2018|php[tek] 2018
+dpc18|Dutch PHP Conference 2018
+phpdet2018|PHP Detroit 2018
+sephp2018|Southeast PHP 2018
+zcoe2018|ZendCon Open Enterprise 2018
+madisonphp2018|Madison PHP 2018
+
+# 2019
+phpbnl19|PHP Benelux 2019
+chiphp2019|Chicago PHP User Group 2019
+mwphp2019|Midwest PHP 2019
+confoo2019|ConFoo 2019
+yorkshirephp2019|Yorkshire PHP 2019
+phpday2019|PHP Day Verona 2019
+dpc2019|Dutch PHP Conference 2019
+apidayssf2019|APIDays San Francisco 2019
+middevcon2019|Mid-Atlantic Developer Conference 2019
+cascadiaphp2019|Cascadia PHP 2019
+t3con2019|TYPO3 Con 2019
+nomadphp2019|Nomad PHP November 2019
+
+# 2020
+chiphp2020|Chicago PHP user Group 2020
+phpbnl2020|PHP Benelux 2020
+confoo2020|ConFoo 2020
+indycloudconf2020|Indy Cloud Conf 2020 (Remote)
+midwestphp2020|Midwest PHP 2020 (Remote)
+platformshwebinar2020|Platform.sh Webinar 2020 (Remote)
+gujavasc2020|GUJavaSC User Group 2020 (Remote)
+nashvillephpug2020|Nashville PHP User Group 2020 (Remote)
+phpugffm2020|Frankfurt PHP User Group 2020 (Remote)
+riocloudconference2020|Rio Cloud Conference Day 2020 (Remote)
+gotonightsberlin2020|GOTO Nights Berlin 2020 (Remote)
+salzburgwebug2020|Salzburg Web User Group 2020 (Remote)
+devopscon2020|Dev Ops Conference 2020 (Remote)
+javaglobalsummit2020|Java Global Summit 2020 (Remote)
+thedevconf2020|TheDevConf 2020 (Remote)
+europecloudsummit2020|Europe Cloud Summit 2020 (Remote)
+ipcberlin2020|International PHP Conference, Berlin 2020 (Remote)
+rheinnekarug2020|PHP Rhein-Nekar User Group 2020 (Remote)
+
+# 2021
+phpswuk2021|PHP South West UK User Group 2021 (Remote)
+phpminds2021|PHP Minds Nottingham 2021 (Remote)
+mergephpug2021|Merge PHP User Group 2021 (Remote)
+javasummit2021|Java Summit 2021 (Remote)
+utahphpug2021|Utah PHP User Group 2021 (Remote)

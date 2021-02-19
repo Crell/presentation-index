@@ -1,0 +1,34 @@
+The Web Services and Context Core Initiative|slides-wscci
+Modernizing Drupal with Symfony2|slides-drupal8-symfony2
+Management lessons from the 1960s|slides-management-60s
+Make Your Code Do Your Job|slides-outsource-compiler
+Design Systems and Drupal|slides-design-systems-drupal
+Drupal 8: The Crash Course|slides-d8-for-devs
+PHP7: The New New PHP|slides-php7
+Aphorisms of API Design|slides-aphorisms-api
+PHP-FIG: Part of a balanced PHP diet|slides-php-fig
+Multi-headed Drupal|slides-multihead
+Many Drupals|slides-multiheaded-drupal
+Functional PHP (Old version)|slides-fp
+Functional PHP|slides-functional-php
+Eating ElePHPants|slides-eating-elephpants
+Drupal in 2020|slides-drupal-2020
+Symfony for Drupal Developers|slides-symfony-for-drupal
+No|slides-no
+Decoupled Drupal with Silex|slides-decoupled-drupal-silex
+Managing Complexity|slides-managing-complexity
+OSS, PHP, and PIE|slides-php-pie
+The road to Drupal 8.1|slides-road-to-81
+Future-friendly Drupal|slides-drupal-dev-cycle
+Composer: There's a Module (or Library) for That|slides-composer
+Is Drupal a CMS?|slides-drupal-cms
+Presenting Drupal 8|slides-presenting-drupal-8
+Building a Cloud-friendly Application|slides-cloud-friendly
+The Container is a Lie|slides-containers-lie
+Why Open Source?|slides-why-oss
+Drupal 8 Training Lab|slides-d8-lab
+Free Software: It's not about the license|slides-free-software
+PSR-14: A Major Event in PHP|slides-psr14
+Never* Use Arrays|slides-never-use-arrays
+PHP 7.4: The New Hotness|slides-php74
+Exploring PHP 8.0|slides-php80
