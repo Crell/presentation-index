@@ -19,7 +19,7 @@ def build_index(collection):
         lines = []
         for (tag, title) in confs:
             if paths.has_key(tag):
-                lines.append('<li><a href="' + paths[tag] + '">' + title + '</a></li>\n')
+                lines.append('<li><a href="' + paths[tag] + '/">' + title + '</a></li>\n')
 
         sections.extend(["""
         <section>
