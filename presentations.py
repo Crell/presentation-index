@@ -41,6 +41,7 @@ def build_index(collection):
             <p>This is an incomplete index of most presentation slide decks by Larry Garfield over the past few years.
             There are a few missing, either because they were not tagged properly or the presentation didn't include HTML slides.</p>
             <p>Presentations are listed alphabetically. Instances of a presentation are listed chronologically.</p>
+            <p>Videos of many of these are avaiable on my <a href="https://www.youtube.com/playlist?list=PLAi1rj7b0ApWScH6njlptekH-WjohZ3zs">YouTube channel</a>.</p>
             {body}
         </body>
     </html>
