@@ -24,9 +24,9 @@ def build_index(collection):
         sections.extend(["""
         <section>
             <h2>{title}</h2>
-            <ul>
+            <ol>
                 {section}
-            </ul>
+            </ol>
         </section>
         """.format(title = presentation_title, section = ' '.join(lines))])
 
