@@ -135,3 +135,5 @@ javasummit2021|Java Summit 2021 (Branded, Remote)
 javasummit2021-indy|Java Summit 2021 (Independent, Remote)
 midwestphp2021|Midwest PHP 2021 (Remote)
 phpgroningen2021|PHP Groningen User Group 2021 (Remote)
+t3onlinedays2021|TYPO3 Online Days 2021 (Remote)
+
