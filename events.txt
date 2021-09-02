@@ -142,4 +142,4 @@ phpday2021|phpDay 2021 (Remote)
 dublinphpug2021|Dublin PHP User Group 2021 (Remote)
 codestantine2021|CODEstantine 2021 (Remote)
 phpsummitbrazil2021|PHP Summit Brazil 2021 (Remote)
-
+phpkonf2021|PHP Konf 2021 (Remote)
