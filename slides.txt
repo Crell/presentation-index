@@ -32,3 +32,4 @@ PSR-14: A Major Event in PHP|slides-psr14
 Never* Use Arrays|slides-never-use-arrays
 PHP 7.4: The New Hotness|slides-php74
 Exploring PHP 8.0|slides-php80
+Serializing PHP|slides-serialization
