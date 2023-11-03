@@ -3,7 +3,7 @@ import shutil
 import os
 
 def run():
-    lines = filter(None, [i.strip() for i in open('slides.txt') if i[0] != '#' ])
+    lines = filter(None, [i.strip() for i in open('slides.txt', 'r') if i[0] != '#' ])
     collection = []
     for line in sorted(lines):
         [title, presentation] = line.split('|')
@@ -53,7 +53,7 @@ def conference_order():
         conference_order.lookup = []
         # I'm sure there's some way to fold this entire thing into a single comprehension,
         # But I'm not sure what.
-        events = filter(None, [i.strip() for i in open('events.txt') if i[0] != '#' ])
+        events = filter(None, [i.strip() for i in open('events.txt', 'r') if i[0] != '#' ])
         for event in events:
             [tagname, title] = event.split('|')
             conference_order.lookup.append((tagname, title))
@@ -66,7 +66,7 @@ def build(presentation_id):
     presentation_dir = './' + presentation_id
 
     subprocess.call(['git', 'clone', git_url])
-    tags = subprocess.check_output(['git', 'tag'], cwd=presentation_dir)
+    tags = subprocess.check_output(['git', 'tag'], cwd=presentation_dir, encoding="ascii")
 
     targets = {}
 
