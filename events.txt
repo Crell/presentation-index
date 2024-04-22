@@ -146,3 +146,6 @@ phpkonf2021|PHP Konf 2021 (Remote)
 
 # 2023
 longhornphp2023|Longhorn PHP 2023
+
+# 2024
+phptek2024|php[tek] 2024
