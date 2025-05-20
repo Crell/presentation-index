@@ -149,3 +149,6 @@ longhornphp2023|Longhorn PHP 2023
 
 # 2024
 phptek2024|php[tek] 2024
+
+# 2025
+phptek2025|php[tek] 2025

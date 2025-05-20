@@ -34,3 +34,4 @@ PHP 7.4: The New Hotness|slides-php74
 Exploring PHP 8.0|slides-php80
 Serializing PHP|slides-serialization
 PHP Attributes|slides-attributes
+A Field Guide to PHProperties|slides-properties
