@@ -35,4 +35,3 @@ Exploring PHP 8.0|slides-php80
 Serializing PHP|slides-serialization
 PHP Attributes|slides-attributes
 A Field Guide to PHProperties|slides-properties
-
