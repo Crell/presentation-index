@@ -155,3 +155,6 @@ phptek2025|php[tek] 2025
 longhornphp2025|Longhorn PHP 2025
 phpconferencebrazil2025|PHP Conference Brazil 2025 (Remote)
 
+# 2026
+mergephp2026|Merge PHP User Group (Remote)
+
