@@ -157,4 +157,4 @@ phpconferencebrazil2025|PHP Conference Brazil 2025 (Remote)
 
 # 2026
 mergephp2026|Merge PHP User Group (Remote)
-
+phptek2026|PHP Tek 2026
