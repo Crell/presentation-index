@@ -37,3 +37,4 @@ PHP Attributes|slides-attributes
 A Field Guide to PHProperties|slides-properties
 Advanced PHPUnit Shenanigans|slides-phpunit-shenanigans
 Piping Hot PHP|slides-pipes
+Demystifying PHP RFCs|slides-php-rfcs
